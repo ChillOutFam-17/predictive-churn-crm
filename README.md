@@ -1,6 +1,6 @@
 # 📊 Predictive Churn & Retention CRM
 
-An enterprise-grade CRM analytics dashboard engineered to monitor account health, identify early churn signals, and automate personalized retention workflows for subscription-based customers.
+An Interactive CRM analytics dashboard engineered to monitor account health, identify early churn signals, and automate personalized retention workflows for subscription-based customers.
 
 This project bridges the gap between backend data pipelines and highly interactive frontend user experiences, providing a clear visual representation of customer risk across a portfolio.
 
