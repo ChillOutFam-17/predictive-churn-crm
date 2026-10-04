@@ -1,10 +1,12 @@
+🔗 **Live demo:** [https://predictive-churn-crm-rmphyjrkgysraplyzdlko8.streamlit.app/](https://predictive-churn-crm-rmphyjrkgysraplyzdlko8.streamlit.app/)
+
 # 📊 Predictive Churn & Retention CRM
 
 An Interactive CRM analytics dashboard engineered to monitor account health, identify early churn signals, and automate personalized retention workflows for subscription-based customers.
 
 This project bridges the gap between backend data pipelines and highly interactive frontend user experiences, providing a clear visual representation of customer risk across a portfolio.
 
-## 📸 Preview
+## ## 📸 Preview
 
 ![Dashboard](screenshots/dashboard.png)
 
